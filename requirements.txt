@@ -1,0 +1,5 @@
+@react-pdf/renderer
+file-saver
+react
+react-dom
+react-scripts
